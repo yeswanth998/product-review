@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mobile Reviews Explorer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container card-center">
+    <h1>Mobile Reviews Explorer</h1>
+    <div class="avg-sentiment-banner" id="avgSentimentBanner">AVERAGE SENTIMENT: <span class="value" id="avgSentimentValue">N/A</span></div>
+    <div id="reviewsSection" style="width:100%; margin-top:24px;"></div>
+    <form id="mainForm" style="display: flex; flex-direction: column; align-items: center; gap: 18px;">
+      <div style="width: 100%;">
+        <label for="brandSelect">Select Company</label>
+        <select id="brandSelect" name="brand">
+          <option value="">-- Select Company --</option>
+          {% for brand in brands %}
+          <option value="{{ brand }}">{{ brand }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div style="width: 100%;">
+        <label for="modelSelect">Select Model</label>
+        <select id="modelSelect" name="model">
+          <option value="">-- Select Model --</option>
+        </select>
+      </div>
+      <button type="button" id="showReviewsBtn" style="margin-top:10px;">Show Reviews</button>
+      <button type="button" id="compareModelsBtn" style="margin-top:10px;">Comparison Models</button>
+    </form>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

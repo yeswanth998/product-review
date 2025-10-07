@@ -1,0 +1,772 @@
+Brand,Model,Review Summary,Star Rating 
+Samsung,Galaxy S22,Excellent camera and performance,4.9
+Apple,iPhone 14,"Great build, but not a huge upgrade",4.8
+Asus,ROG Phone 6,"Best for gaming, bulky design",4.7
+OnePlus,Nord 2T,Fast charging and clean UI,4.6
+Xiaomi,Redmi Note 11,"Value for money, solid battery life",4.5
+Realme,GT Neo 3,Excellent gaming performance,4.4
+Oppo,Reno8,"Good all-rounder, competitive pricing",4.3
+Vivo,V25 Pro,"Stylish design, decent camera",4.2
+Motorola,Edge 30,Lightweight and smooth display,4.1
+Lenovo,Legion Y90,"Extreme performance, heavy build",4
+Sony,Xperia 10 IV,"Great battery, outdated design",3.9
+Infinix,Zero Ultra,"Great charging speed, average camera",3.8
+Tecno,Camon 19 Pro,Solid camera at low price,3.7
+Lava,Blaze 5G,Affordable 5G option,3.6
+Nokia,X30,"Eco-friendly build, stock Android",3.5
+Google,Pixel 7,Excellent software and camera,4.7
+Samsung,Galaxy A53,Good mid-range with AMOLED display,4.3
+Apple,iPhone SE 2022,"Compact, powerful for price",4.4
+OnePlus,10T,"Flagship performance, fast charging",4.5
+Xiaomi,POCO X4 Pro,Strong specs for budget,4.2
+Realme,10 Pro+,Good camera and design,4.1
+Vivo,Y75 5G,Affordable 5G with good battery,3.9
+Motorola,G Stylus 5G (2022),"Stylus support, budget-friendly",3.8
+Nokia,G11 Plus,"Long battery life, clean software",3.7
+Infinix,Note 12 Pro,Good display and fast charging,4
+Tecno,Spark 9T,"Fast charging, basic camera",3.6
+Lava,Agni 2,"Entry-level, decent for calls",3.5
+Sony,Xperia 5 IV,"Compact flagship, great display",4.4
+Lenovo,K14 Note,"Basic smartphone, budget-friendly",3.8
+Asus,Zenfone 9,"Compact flagship, good camera",4.3
+Samsung,Galaxy M14,Good budget 5G phone,4
+Apple,iPhone 13 Mini,Compact with great performance,4.6
+OnePlus,9R,Flagship killer at lower price,4.4
+Xiaomi,Redmi 10 Prime,Great value with decent specs,4.1
+Realme,8 5G,Strong mid-range device,4
+Vivo,Y21,Good camera and battery life,3.9
+Motorola,Moto G31,Balanced performance and price,4
+Nokia,G50,Sturdy build with 5G,3.8
+Infinix,Hot 12,Entry-level with big screen,3.7
+Tecno,Pova 3,"High battery capacity, budget",3.9
+Lava,Z2 Max,Basic smartphone for daily use,3.5
+Sony,Xperia 1 III,"Premium flagship, great camera",4.5
+Lenovo,K14 Plus,Affordable with decent specs,3.7
+Asus,Rog Phone 5,Best gaming phone,4.8
+Google,Pixel 6a,"Good camera, clean Android",4.3
+Samsung,Galaxy Z Flip4,Foldable with premium build,4.6
+Apple,iPhone 12,"Strong all-rounder, great camera",4.5
+OnePlus,8T,Flagship with smooth performance,4.4
+Xiaomi,Mi 11X,Good value for Snapdragon 870,4.3
+Realme,X7 Max,Fast charging and display,4.2
+Vivo,V23 5G,"Slim design, good selfies",4.1
+Motorola,Moto Edge 20,Good display and cameras,4
+Nokia,5.4,Good build and software,3.8
+Infinix,Note 11,Good mid-range phone,3.9
+Tecno,Camon 17,"Premium design, solid specs",3.9
+Lava,BeU,Affordable selfie-focused phone,3.6
+Sony,Xperia Pro-I,Professional-grade camera phone,4.7
+Lenovo,Legion Phone Duel 2,Gaming beast with dual batteries,4.5
+Asus,Zenfone 8,Compact flagship with power,4.4
+Google,Pixel 5,Great software and camera,4.3
+Samsung,Galaxy S21 FE,Affordable flagship with great features,4.5
+Apple,iPhone XR,Still relevant with good performance,4.2
+OnePlus,7T,Great display and performance,4.3
+Xiaomi,Redmi Note 10 Pro,Excellent display and camera,4.4
+Realme,7 Pro,"Fast charging, good screen",4.2
+Vivo,V20,Good selfies and design,4.1
+Motorola,Moto G9 Power,"Huge battery, basic specs",3.9
+Nokia,3.4,Good for basic use,3.7
+Infinix,Smart 5,Entry-level phone with big battery,3.5
+Tecno,Pova 2,Big battery and decent performance,3.8
+Lava,A5,Very basic smartphone,3.4
+Sony,Xperia L4,Budget phone with large screen,3.6
+Lenovo,K12 Note,Decent budget phone,3.7
+Asus,Rog Phone 3,Top-tier gaming phone,4.6
+Google,Pixel 4a,"Compact, excellent camera",4.5
+Samsung,Galaxy A12,Good budget phone with big battery,4
+Apple,iPhone 11,Still popular with great cameras,4.5
+OnePlus,6T,"Smooth performance, good value",4.3
+Xiaomi,POCO F3,Strong performance and AMOLED,4.4
+Realme,X3 SuperZoom,Good zoom camera and speed,4.2
+Vivo,V17 Pro,"Pop-up selfie cameras, stylish",4.1
+Motorola,Moto One Fusion+,"Good value, solid battery",4
+Nokia,7.2,Good camera and display,3.9
+Infinix,Zero 5G 2021,Affordable 5G phone,3.8
+Tecno,Spark 7,"Basic specs, good for budget",3.6
+Lava,BeU Pro,Affordable with decent features,3.5
+Sony,Xperia 10 III,Compact with good battery,4.1
+Lenovo,Z6 Lite,Good mid-range phone,3.9
+Asus,ROG Phone 2,Gaming powerhouse,4.7
+Google,Pixel 3a,Excellent camera on budget,4.4
+Samsung,Galaxy Note 20,Ultra-premium with S-Pen,4.6
+Apple,iPhone 8,"Still reliable, classic design",4
+OnePlus,5T,"Good performance, solid build",4.1
+Xiaomi,Mi Mix 3,Slider phone with flagship specs,4.2
+Realme,6 Pro,Strong mid-range with pop-up cams,4
+Vivo,V15 Pro,Pop-up selfie camera,4.1
+Motorola,Moto G8 Power,"Long battery life, budget-friendly",4
+Nokia,6.2,Good value with solid features,3.9
+Infinix,Hot 10,"Affordable, decent performance",3.7
+Tecno,Camon 16,Good selfie camera,3.8
+Lava,Z91,Entry-level phone,3.5
+Sony,Xperia XA2,Basic mid-range phone,3.6
+Lenovo,Moto Z2 Force,"Premium build, modular design",4.2
+Asus,PadFone X,Unique phone-tablet hybrid,3.8
+Google,Pixel 2,Great camera and stock Android,4.3
+Samsung,Galaxy S20 FE,Flagship features at a mid-range price,4.4
+Apple,iPhone SE (1st Gen),Compact and budget-friendly,4
+OnePlus,3T,"Still performs well, good value",4.2
+Xiaomi,Redmi K20 Pro,Flagship killer with great display,4.3
+Realme,5 Pro,Good cameras and display,4.1
+Vivo,Y91C,Entry-level with large display,3.7
+Motorola,Moto E6 Plus,Basic smartphone for daily use,3.6
+Nokia,2.3,"Good battery life, basic specs",3.5
+Infinix,Note 7,Decent performance and battery,3.9
+Tecno,Spark 5,Affordable with big screen,3.6
+Lava,Z2,Entry-level with decent battery,3.5
+Sony,Xperia XZ2,"Flagship from 2018, good display",4.1
+Lenovo,Moto G7 Power,Big battery and clean Android,4
+Asus,Zenfone Max Pro M2,"Long battery life, budget",4.1
+Google,Pixel 3 XL,Great camera and software,4.4
+Samsung,Galaxy A71,Solid mid-range with great display,4.3
+Apple,iPhone XS,"Powerful performance, good camera",4.4
+OnePlus,7,Excellent flagship experience,4.3
+Xiaomi,Redmi Note 8 Pro,Strong gaming performance,4.2
+Realme,3 Pro,Good value with fast charging,4
+Vivo,V11,Good design and camera,4.1
+Motorola,Moto G7,Good balance of specs and price,4
+Nokia,8.1,Great display and software,4
+Infinix,Hot 8,"Affordable, big battery",3.7
+Tecno,Camon 12,Good selfie camera,3.8
+Lava,Z91 Pro,Budget phone with decent specs,3.5
+Sony,Xperia XZ3,Great display and audio,4.1
+Lenovo,Moto G6 Plus,Good for budget segment,3.9
+Asus,ROG Phone,Top gaming phone,4.7
+Google,Pixel 2 XL,"Larger variant, great camera",4.4
+Samsung,Galaxy Note 10,"Stylish design, powerful performance",4.5
+Apple,iPhone 7,"Still reliable, good camera",4
+OnePlus,5,Great performance for its time,4.1
+Xiaomi,Mi A3,Stock Android experience,4
+Realme,2 Pro,Good display and battery,3.9
+Vivo,V9,Good selfie camera,4
+Motorola,Moto G6,"Balanced specs, good price",3.9
+Nokia,3.1 Plus,Basic phone with solid build,3.7
+Infinix,S4,Good budget phone,3.6
+Tecno,Spark 3,Affordable with decent specs,3.5
+Lava,Z90,Basic smartphone for daily use,3.4
+Sony,Xperia XA1,Ultra-basic phone,3.5
+Lenovo,Moto E5,Good budget option,3.6
+Asus,Zenfone Max M1,Great battery life,3.8
+Google,Pixel XL,Flagship of its time,4.3
+Samsung,Galaxy S10e,Compact flagship with solid specs,4.4
+Apple,iPhone 6s,Still decent for basic use,3.9
+OnePlus,3,Good value flagship from 2016,4
+Xiaomi,Redmi Note 7,Great budget phone,4.1
+Realme,1,Entry-level smartphone,3.7
+Vivo,V7+,Good selfies and design,3.9
+Motorola,Moto E5 Plus,"Big battery, affordable",3.8
+Nokia,5.1 Plus,Good display and build,3.7
+Infinix,Hot S3X,Decent selfie camera,3.6
+Tecno,Camon i,Affordable with basic features,3.5
+Lava,Z90 Pro,Entry-level with good battery,3.5
+Sony,Xperia XZ Premium,Flagship with 4K display,4.2
+Lenovo,Moto Z Play,Long battery life,4
+Asus,Zenfone 3,Good mid-range phone,4.1
+Google,Pixel,Excellent camera and software,4.4
+Samsung,Galaxy A50,Great mid-range with AMOLED,4.2
+Apple,iPhone 6,"Classic design, decent performance",3.8
+OnePlus,2,Good value flagship from 2015,3.9
+Xiaomi,Redmi 6 Pro,Affordable with good specs,3.8
+Realme,2,Basic phone with good battery,3.6
+Vivo,V5,Great selfie camera for the price,3.7
+Motorola,Moto E4,Entry-level with decent battery,3.5
+Nokia,3,Good budget smartphone,3.6
+Infinix,Hot 6,Affordable smartphone,3.4
+Tecno,Spark Plus,Basic budget phone,3.3
+Lava,Z80,Entry-level with acceptable features,3.2
+Sony,Xperia XZ1,Strong performance and camera,4
+Lenovo,Moto G5,Good budget phone with solid performance,3.8
+Asus,Zenfone 4,Decent mid-range with dual cameras,3.9
+Google,Nexus 5X,"Stock Android, good value",4.1
+Samsung,Galaxy J7 Prime,Good budget phone with solid build,3.9
+Apple,iPhone 5s,Classic compact phone,3.7
+OnePlus,1,Flagship killer of its time,4
+Xiaomi,Redmi 4,Affordable with good battery,3.8
+Realme,C1,Entry-level smartphone,3.5
+Vivo,V3 Max,Good battery and performance,3.7
+Motorola,Moto X4,Mid-range phone with dual cameras,4
+Nokia,1,Basic Android Go device,3.3
+Infinix,Note 4,Good battery life and display,3.7
+Tecno,W3,Affordable with basic specs,3.2
+Lava,A77,Basic smartphone for entry-level users,3.1
+Sony,Xperia XA Ultra,Big screen and camera,3.8
+Lenovo,Vibe K5,Good budget phone,3.6
+Asus,Live,Affordable with decent specs,3.5
+Google,Nexus 6P,High-end Google phone,4.2
+Samsung,Galaxy S6,Flagship with premium design,4.1
+Apple,iPhone 5c,Colorful budget iPhone,3.6
+OnePlus,X,Powerful phone with great display,4.3
+Xiaomi,Redmi Note 5 Pro,Good camera and performance,4.2
+Realme,U1,Good selfie phone,4
+Vivo,Y55,Basic phone with decent battery,3.6
+Motorola,Moto Z,Modular phone with great build,4.1
+Nokia,8,Solid flagship with clean Android,4
+Infinix,Hot S3,Good selfie performance,3.8
+Tecno,Camon X,Good mid-range selfie phone,3.9
+Lava,A95,Affordable phone with decent specs,3.5
+Sony,Xperia L1,Basic smartphone with large display,3.4
+Lenovo,K8 Note,Good mid-range phone,3.8
+Asus,Zenfone 5,Strong mid-range with good design,4
+Google,Pixel XL,Flagship with excellent camera,4.4
+Samsung,Galaxy J5,Good budget phone with solid battery,3.8
+Apple,iPhone 4s,"Classic Apple phone, durable",3.7
+OnePlus,OnePlus X,Compact phone with good build,3.9
+Xiaomi,Redmi 3S,Good budget smartphone,3.8
+Realme,C2,Entry-level with decent features,3.6
+Vivo,V5 Lite,Affordable with good selfie cam,3.7
+Motorola,Moto G5 Plus,Good mid-range phone,3.9
+Nokia,6,Good build and performance,3.9
+Infinix,Note 5,Big screen and decent specs,3.8
+Tecno,Camon i Air,Affordable with good battery,3.6
+Lava,Z80 Pro,Entry-level phone with decent battery,3.5
+Sony,Xperia XA1 Ultra,Good camera and display,3.8
+Lenovo,Moto Z2 Play,Good mid-range with modular design,3.9
+Asus,ROG Phone II,Top-tier gaming phone,4.7
+Google,Pixel 4,"Excellent camera, smooth software",4.5
+Samsung,Galaxy M31,"Long battery life, good camera",4.3
+Apple,iPhone XR,"Good performance, excellent camera",4.4
+OnePlus,7T,Flagship killer with smooth display,4.5
+Xiaomi,Redmi Note 9 Pro,Strong mid-range with quad cameras,4.2
+Realme,X2 Pro,"Powerful performance, fast charging",4.4
+Vivo,V20,"Good selfie camera, sleek design",4.1
+Motorola,Moto G9 Power,"Huge battery, decent specs",4
+Nokia,5.4,Stock Android with good build,4
+Infinix,Zero 8,Good camera and performance,4.1
+Tecno,Pova,Strong battery and performance,4
+Lava,Blaze 2,Affordable with decent specs,3.7
+Sony,Xperia 10 II,Good mid-range with OLED display,4
+Lenovo,Moto G8 Power,Great battery and display,4.1
+Asus,Zenfone 7,Flip camera and flagship specs,4.3
+Google,Pixel 5,Excellent software and camera,4.5
+Samsung,Galaxy Note 20,"Ultra-premium, excellent display",4.6
+Apple,iPhone 12 Mini,Compact flagship with great camera,4.5
+OnePlus,Nord,Good mid-range with smooth UI,4.3
+Xiaomi,Mi 10T Pro,Strong specs and camera,4.4
+Realme,8 Pro,Good camera and fast charging,4.2
+Vivo,X60,Excellent camera with Zeiss optics,4.4
+Motorola,Edge,Flagship with curved display,4.3
+Nokia,3.4,Affordable with clean Android,3.9
+Infinix,Hot 10,Good battery and display,4
+Tecno,Spark 6 Go,Entry-level with good battery,3.8
+Lava,Z6,Affordable with decent performance,3.9
+Sony,Xperia 5 II,Compact flagship with good camera,4.5
+Lenovo,Moto G9 Power,Excellent battery life,4
+Asus,ROG Phone 3,Ultra gaming phone,4.7
+Google,Pixel 4a,Best budget Pixel with excellent camera,4.5
+Samsung,Galaxy A72,Good mid-range with versatile cameras,4.2
+Apple,iPhone SE (2020),Compact and powerful,4.4
+OnePlus,9,Flagship with Hasselblad camera,4.6
+Xiaomi,POCO X3 Pro,Great performance at budget price,4.3
+Realme,9 Pro+,Strong camera and fast charging,4.2
+Vivo,V21,Good selfie camera and AMOLED display,4.1
+Motorola,Moto G100,Strong specs and clean Android,4
+Nokia,G20,Long battery life with stock Android,4
+Infinix,Zero 5G 2021,5G capable with good performance,4.1
+Tecno,Camon 17,Good camera and display,4
+Lava,Z2,Entry-level smartphone,3.5
+Sony,Xperia 1 III,Premium phone with pro camera features,4.5
+Lenovo,K12 Pro,Good mid-range option,3.9
+Asus,Zenfone 8,Compact flagship with strong specs,4.4
+Google,Pixel 6,Flagship with Google Tensor chip,4.6
+Samsung,Galaxy S21 Ultra,Top-tier flagship with advanced cameras,4.7
+Apple,iPhone 13 Pro,"Powerful performance, great camera",4.8
+OnePlus,9 Pro,Premium flagship with Hasselblad tuning,4.6
+Xiaomi,Redmi Note 10 Pro,Excellent mid-range with 108MP camera,4.4
+Realme,8i,Affordable with smooth display,4
+Vivo,V23 Pro,Good design and selfie camera,4.2
+Motorola,Moto Edge Plus,Flagship with edge display,4.3
+Nokia,X20,Stock Android with 5G,4.1
+Infinix,Note 10 Pro,Good battery and display,4.1
+Tecno,Pova 2,Big battery and decent performance,4
+Lava,Agni 2,Entry-level gaming phone,3.8
+Sony,Xperia Pro,Ideal for media professionals,4.4
+Lenovo,Legion Phone Duel,Flagship gaming phone,4.5
+Asus,ROG Phone 5,Ultra gaming phone with strong specs,4.7
+Google,Pixel 6 Pro,Flagship with enhanced camera and display,4.7
+Samsung,Galaxy Z Fold 3,Foldable flagship with great multitasking,4.5
+Apple,iPhone 13 Mini,Compact flagship with powerful specs,4.6
+OnePlus,Nord 2,Strong mid-range with good camera,4.4
+Xiaomi,Mi 11 Ultra,Premium flagship with top camera,4.7
+Realme,GT,Flagship killer with Snapdragon 870,4.5
+Vivo,Y73,Good design and decent performance,4
+Motorola,G Stylus 5G,Stylus phone with 5G support,4
+Nokia,C20,Simple Android Go phone,3.7
+Infinix,Hot 11S,Good performance and display,4.1
+Tecno,Spark 7T,Entry-level phone with good battery,3.9
+Lava,Agni 2 Gaming,Affordable gaming phone,3.8
+Sony,Xperia 10 III,Compact mid-range with good display,4
+Lenovo,Moto G50,5G phone with good battery,4
+Asus,ROG Phone 5s,Enhanced gaming phone with Snapdragon 888+,4.6
+Google,Pixel 5a,Affordable Pixel with great camera,4.4
+Samsung,Galaxy A52s,Strong mid-range with 5G,4.3
+OnePlus,10 Pro,Flagship with excellent display,4.6
+Xiaomi,Redmi Note 11 Pro 5G,Good value mid-range,4.2
+Realme,10,Affordable with decent specs,4
+Vivo,V25,Good camera and sleek design,4.1
+Motorola,Moto G71,5G support with clean Android,4
+Nokia,G11,Basic phone with reliable performance,3.8
+Infinix,Zero 5G 2022,Good performance and battery,4.1
+Tecno,Pova Neo,Big battery and budget pricing,4
+Lava,Agni 2,Entry-level gaming phone,3.7
+Sony,Xperia Pro-I,Professional camera phone,4.5
+Lenovo,Moto G82,Good display and performance,4.1
+Asus,ROG Phone 6,High-end gaming phone,4.7
+Google,Pixel 7,Latest Pixel with Google Tensor G2,4.6
+Samsung,Galaxy Z Flip 3,Compact foldable with flagship specs,4.4
+Apple,iPhone 14 Pro,"Top-tier performance, Dynamic Island",4.8
+OnePlus,10R,"Great performance, fast charging",4.3
+Xiaomi,Mi 11X,Good display and solid performance,4.2
+Realme,Narzo 50 Pro,Strong specs at budget price,4.1
+Vivo,T1 5G,Affordable 5G with good battery,4
+Motorola,Moto Edge 30,"Lightweight, OLED display",4.2
+Nokia,X30 5G,Solid build with clean software,4.1
+Infinix,Zero Ultra,High-end Infinix with 180W charging,4.3
+Lava,Yuva 2 Pro,Budget-friendly with modern design,3.7
+Sony,Xperia 1 IV,Flagship for content creators,4.6
+Lenovo,Legion Y70,Performance-focused with Snapdragon 8+,4.4
+Asus,Zenfone 9,Compact flagship with premium features,4.5
+Google,Pixel 7a,Excellent budget Pixel with flagship camera,4.5
+Samsung,Galaxy A14 5G,Affordable 5G with reliable battery,4
+Apple,iPhone 15,Latest iPhone with USB-C and powerful chip,4.7
+OnePlus,Nord CE 3 Lite,Great value for money,4.2
+Xiaomi,Redmi 12 5G,Entry-level 5G with solid design,4.1
+Realme,C55,"Stylish design, decent features",4
+Vivo,Y100,"AMOLED display, good battery",4.1
+Motorola,Moto G73 5G,"Good camera, clean UI",4.2
+Nokia,G42 5G,"Repairable design, decent performance",4
+Infinix,Zero 30 5G,"High-res front camera, sleek design",4.3
+Tecno,Pop 7 Pro,Entry-level phone with large battery,3.8
+Lava,Blaze 5G,Great value 5G phone under ?10K,4.2
+Sony,Xperia 10 V,Compact phone with OLED display,4.1
+Lenovo,Legion Y90,Gaming-focused with dual fans,4.5
+Asus,ROG Phone 7 Ultimate,Ultra gaming phone with top specs,4.8
+Google,Pixel Fold,"Pixel's first foldable, excellent camera",4.6
+Samsung,Galaxy M14 5G,"Good performance, great battery life",4.2
+Apple,iPhone 15 Pro Max,"Top-tier flagship, Titanium build",4.9
+OnePlus,11R,Flagship performance at a lower price,4.5
+Xiaomi,POCO F5,Excellent display and Snapdragon 7+ Gen 2,4.4
+Realme,Narzo N55,Affordable with 33W fast charging,4
+Vivo,T2 5G,Slim design with good display,4.1
+Motorola,Moto Edge 40,Lightweight and premium feel,4.3
+Nokia,C32,Stock Android with decent battery,3.9
+Infinix,Smart 7 HD,Entry-level with big display,3.8
+Tecno,Camon 20 Premier,"Creative design, good camera",4.2
+Lava,Blaze 2 5G,Strong value under ?10K,4.1
+Sony,Xperia 5 V,Compact with strong camera performance,4.4
+Lenovo,ThinkPhone by Motorola,"Enterprise-grade phone, premium build",4.5
+Asus,ROG Phone 7,Flagship gaming with AMOLED display,4.7
+Google,Pixel 8,Improved design and Tensor G3 chip,4.6
+Samsung,Galaxy F54 5G,Massive battery and AMOLED display,4.3
+Apple,iPhone 14 Plus,"Larger screen, great battery life",4.6
+OnePlus,11,Flagship with Snapdragon 8 Gen 2,4.7
+Xiaomi,Redmi K50i,"Powerful performance, LCD display",4.2
+Realme,11x 5G,Strong entry-level 5G option,4.1
+Vivo,Y36,"Modern design, good battery",4
+Motorola,Moto G32,Excellent display and software,4.1
+Nokia,T21,Android tablet with decent build,3.8
+Infinix,GT 10 Pro,"Gaming design, solid performance",4.2
+Tecno,Pop 8,Entry-level with decent features,3.7
+Lava,Storm 5G,Strong build and performance,4.1
+Sony,Xperia Ace III,Compact and durable,3.9
+Lenovo,Tab P12,Mid-range Android tablet,4
+Asus,ROG Ally (Phone Variant),Gaming-focused with cooling tech,4.6
+Google,Pixel 8 Pro,Camera powerhouse with Tensor G3,4.8
+Samsung,Galaxy A05s,Entry-level with Snapdragon chip,4
+Apple,iPhone SE (2022),"Compact, powerful with A15 chip",4.3
+OnePlus,Nord CE 2 Lite,Affordable OnePlus with 5G,4.2
+Xiaomi,Redmi 11 Prime 5G,Value for money 5G phone,4.1
+Realme,11 Pro+,"Curved AMOLED, 200MP camera",4.5
+Vivo,X90,Flagship camera performance,4.6
+Motorola,G84 5G,Strong design and pOLED display,4.3
+Nokia,C22,Durable with clean Android Go,3.8
+Infinix,Smart 8,Good specs for its price,4
+Tecno,Phantom X2 Pro,Flagship with retractable camera,4.4
+Lava,O2,Good budget offering with clean UI,3.9
+Sony,Xperia 1 V,Excellent display and audio,4.6
+Lenovo,K14 Plus,Basic Android phone with good battery,3.7
+Asus,Zenfone 10,"Compact size, flagship power",4.5
+Google,Pixel 7 Pro,"Flagship camera, smooth software",4.7
+Samsung,Galaxy M13 5G,Budget 5G with clean UI,4.1
+Apple,iPhone 12 Pro Max,Excellent performance and camera,4.7
+OnePlus,8T,Smooth performance and fast charging,4.5
+Xiaomi,Mi 10i,Good mid-range with 108MP camera,4.3
+Realme,7 Pro,Fast charging and AMOLED display,4.2
+Vivo,V21e 5G,Slim and stylish 5G phone,4
+Motorola,Moto E40,Good entry-level with clean Android,3.9
+Nokia,2.4,Basic phone with large display,3.8
+Infinix,Note 12,Great AMOLED at low price,4.1
+Tecno,Camon 18 Premier,Camera-focused mid-ranger,4.2
+Lava,Z6 Pro,Smooth performance under budget,3.9
+Sony,Xperia L4,Entry-level Sony with tall display,3.7
+Lenovo,Phab 2 Plus,"Big screen, good for media",3.8
+Asus,Zenfone Max Pro M2,Popular mid-ranger with large battery,4.2
+Google,Pixel 3 XL,Classic Pixel with great camera,4.4
+Samsung,Galaxy A23,Good display and decent camera,4.1
+OnePlus,7 Pro,Smooth 90Hz display and pop-up camera,4.4
+Xiaomi,Redmi 9 Power,Excellent battery for budget users,4
+Realme,C25s,"Big battery, basic performance",4
+Vivo,Y20G,Decent entry-level with good battery,3.9
+Motorola,Moto G60,Huge battery and 120Hz display,4.2
+Nokia,6.2,"Stylish build, average camera",3.8
+Infinix,Hot 9 Play,"Large screen, basic features",3.7
+Tecno,Spark 6 Air,Big display and battery on a budget,3.9
+Lava,Z1,Very basic with durable design,3.6
+Sony,Xperia XZ2 Compact,"Compact flagship, outdated now",4
+Lenovo,Vibe K5 Note,Old model with Dolby Atmos,3.8
+Asus,Zenfone Max M1,Entry-level with good battery,3.9
+Google,Pixel 2 XL,"Still great camera, outdated software",4.3
+Samsung,Galaxy M51,"Massive 7000mAh battery, AMOLED display",4.3
+OnePlus,6T,Fast and smooth with good display,4.3
+Xiaomi,Redmi Note 7 Pro,"Very popular, good performance",4.2
+Vivo,Z1 Pro,Gaming-focused budget phone,4.1
+Motorola,One Fusion+,Pop-up camera and big battery,4.2
+Nokia,7.2,"Solid design, average camera",3.9
+Infinix,Zero 8,Good performance for price,4.1
+Tecno,Camon 15 Pro,"Pop-up selfie, decent value",3.9
+Lava,Z4,Balanced budget phone,3.8
+Sony,Xperia XA1 Plus,"Good display, average performance",3.8
+Lenovo,Z6 Pro,"Flagship specs, underrated device",4.3
+Asus,Zenfone 5Z,Flagship killer of its time,4.4
+Google,Nexus 6P,"Classic Google device, outdated now",4.2
+Samsung,Galaxy A30s,Decent performance with AMOLED display,4
+Apple,iPhone XR,"LCD display, great battery and camera",4.5
+OnePlus,7,"Solid performance, value flagship",4.4
+Xiaomi,Redmi Note 5 Pro,Popular budget phone of its time,4.1
+Realme,3 Pro,Great value for budget gamers,4.2
+Vivo,U20,"Big battery, good value",4
+Motorola,Moto Z2 Play,"Mod support, slim design",3.9
+Nokia,5.4,Stock Android with decent camera,3.8
+Infinix,S4,Good selfie cam for the price,3.9
+Tecno,Spark Go Plus,Large screen on a budget,3.7
+Sony,Xperia XZ3,"Great display, compact design",4.2
+Lenovo,P2,Huge battery and AMOLED display,4.3
+Asus,Zenfone 3 Deluxe,Flagship-grade metal phone,4.1
+Google,Pixel XL,"Excellent camera, stock Android",4.3
+Samsung,Galaxy J6,"Affordable AMOLED, decent specs",3.9
+Apple,iPhone 8,Aging but still reliable,4.3
+OnePlus,5T,"Fast and smooth, solid design",4.2
+Xiaomi,Mi A1,Android One with dual cameras,4.1
+Realme,2 Pro,Great value mid-ranger,4.2
+Vivo,Y91,"Basic performance, good battery",3.8
+Motorola,Moto X4,Waterproof and stock Android,4
+Nokia,3.2,"Big display, sluggish performance",3.6
+Infinix,Hot 8,"Big battery, decent for the price",4
+Tecno,Phantom 9,AMOLED and in-display fingerprint,4.1
+Lava,Z61 Pro,Budget with face unlock,3.7
+Sony,Xperia X Compact,"Compact size, aging specs",3.8
+Lenovo,A6000 Plus,"Basic 4G smartphone, outdated",3.5
+Asus,Pegasus 3,"Metal body, average specs",3.6
+Google,Pixel,First Pixel with superb camera,4.4
+Samsung,Galaxy Note 10 Lite,Premium stylus support and display,4.3
+Apple,iPhone 6s,Classic with solid performance,4
+OnePlus,3T,Flagship killer in its time,4.2
+Xiaomi,Redmi Note 4,Great value with Snapdragon 625,4.1
+Realme,U1,"Good selfie camera, budget price",4
+Vivo,V11 Pro,"In-display fingerprint, AMOLED",4.2
+Motorola,Moto G6,"Decent mid-range, stock Android",4.1
+Nokia,1.3,Basic Android Go device,3.5
+Infinix,Note 7,Large display and battery,4.1
+Tecno,Camon 16 Premier,Good camera and display,4
+Lava,Z41,Budget phone with decent specs,3.7
+Sony,Xperia Z5 Premium,"4K display, premium build",4.3
+Lenovo,K8 Plus,"Dual camera, decent performance",3.9
+Asus,Rog Phone II,Flagship gaming phone,4.6
+Google,Pixel 3a,Great budget Pixel phone,4.4
+Samsung,Galaxy S20 FE,Great value flagship with versatile camera,4.5
+Apple,iPhone 7,Still reliable with good performance,4.1
+OnePlus,Nord N10 5G,Affordable 5G with decent specs,4
+Xiaomi,POCO X3 NFC,"Good gaming performance, big battery",4.3
+Realme,5 Pro,Popular budget phone with good camera,4.2
+Vivo,X50,"Good camera system, sleek design",4.4
+Motorola,Moto G7 Plus,Well-balanced mid-range device,4.1
+Nokia,8.3 5G,Strong performance with 5G support,4.2
+Infinix,Note 11,Good battery and display,4
+Tecno,Pova 2,Big battery and gaming focus,4.1
+Lava,Z2,Entry-level with decent features,3.7
+Sony,Xperia 10 II,Compact mid-range with OLED,4
+Lenovo,Legion Duel 2,Gaming powerhouse with pop-up cameras,4.5
+Asus,ROG Phone 5,Top gaming phone with high refresh rate,4.7
+Google,Pixel 6,Flagship with Tensor chip,4.6
+Samsung,Galaxy S21 Ultra,Top-tier camera & display,4.7
+Apple,iPhone 13 Mini,"Compact size, powerful A15 chip",4.5
+OnePlus,9 Pro,Flagship with Hasselblad camera,4.6
+Xiaomi,Mi 11 Ultra,Huge camera sensor & AMOLED display,4.6
+Realme,GT Neo 3T,Good value flagship performance,4.3
+Vivo,X60 Pro,"Flagship camera, Zeiss optics",4.5
+Motorola,Moto Edge 20,Good OLED display and 108MP cam,4.2
+Nokia,X20,Android One with clean UI,4
+Infinix,Zero 5G 2022,Affordable 5G with decent battery,4
+Tecno,Spark 8,Entry-level with good display,3.9
+Lava,BeU,Fashion-forward with good selfie cam,3.8
+Sony,Xperia 5 III,Compact flagship with 120Hz display,4.4
+Lenovo,Legion Phone Duel,Gaming beast with dual batteries,4.5
+Asus,Zenfone 8,Compact flagship with great performance,4.5
+Google,Pixel 5a,"Excellent camera, clean software",4.4
+Samsung,Galaxy Z Flip 3,Foldable with compact design,4.4
+Apple,iPhone SE (2020),Powerful small phone with A13,4.3
+OnePlus,Nord CE 2,Good mid-range with 5G,4.1
+Xiaomi,Redmi Note 11,Great budget AMOLED phone,4.2
+Realme,9 Pro+,Strong camera and performance,4.3
+Vivo,T1,Good gaming phone with AMOLED,4.2
+Motorola,Moto G71 5G,Affordable 5G with clean UI,4
+Nokia,G10,Long battery and clean Android,3.9
+Infinix,Hot 12,Entry-level with decent specs,3.8
+Tecno,Spark 7,Good value entry-level device,3.7
+Lava,Agni 2,Budget phone with basic features,3.6
+Sony,Xperia 1 III,Flagship with 4K OLED display,4.5
+Lenovo,K12 Pro,Good budget device with decent specs,3.9
+Asus,ROG Phone 3,Ultimate gaming phone,4.7
+Google,Pixel 4a,Compact with excellent camera,4.4
+Samsung,Galaxy A52s 5G,"Smooth 120Hz AMOLED, solid midrange",4.3
+Apple,iPhone 12 Mini,"Compact, great performance & camera",4.5
+OnePlus,10 Pro,Flagship with top specs & camera,4.7
+Xiaomi,Redmi K50,Gaming focused with strong specs,4.4
+Realme,8 Pro,"Good camera, fast charging",4.1
+Vivo,V23 Pro,"Sleek design, good selfie camera",4.2
+Motorola,Edge 30,Ultra slim with good display,4.3
+Nokia,G20,Long battery and Android One,4
+Infinix,Note 12,"Good AMOLED display, decent battery",4.1
+Tecno,Camon 19,Decent budget camera phone,4
+Sony,Xperia Pro-I,Professional-grade camera phone,4.6
+Lenovo,Tab P11,Tablet with good display & stylus,4.2
+Asus,ROG Phone 6,High-end gaming beast,4.8
+Google,Pixel 7,Latest flagship with Tensor G2 chip,4.7
+Samsung,Galaxy M33 5G,"Long battery, smooth display",4.1
+Apple,iPhone 11,"Great camera, solid performance",4.5
+OnePlus,Nord 2T,Good midrange with strong camera,4.3
+Xiaomi,Redmi Note 10 Pro,"AMOLED, strong camera and battery",4.4
+Realme,9i,Affordable with good performance,4
+Vivo,V23,Good design and selfie camera,4.1
+Motorola,Moto G60,"High refresh rate display, big battery",4.1
+Nokia,C30,"Big battery, basic specs",3.8
+Infinix,Hot 12 Play,Budget device with big screen,3.9
+Tecno,Camon 18,Good budget camera phone,4
+Sony,Xperia 10 III,Compact mid-range OLED,4
+Lenovo,Tab M10 Plus,Tablet with decent specs,4.1
+Asus,ROG Phone 5s,Gaming phone with high refresh rate,4.7
+Google,Pixel 7 Pro,Premium flagship with great camera,4.7
+Samsung,Galaxy S24 Ultra,Flagship with top-tier camera and performance,4.8
+Apple,iPhone 15 Pro,Max premium build and A17 chip,4.9
+OnePlus,11T Pro,Flagship killer with fast charging,4.6
+Xiaomi,Redmi Note 13 Pro,Strong mid-range with AMOLED display,4.3
+Realme,12 Pro+,Good camera and 120W charging,4.2
+Vivo,X90 Pro+,Flagship camera with Zeiss optics,4.5
+Motorola,Moto G73,Affordable 5G with smooth performance,4
+Nokia,X30 5G,Android One with solid battery life,4.1
+Infinix,Zero 5G 2024,Improved 5G with decent specs,4
+Tecno,Spark 9 Pro,Good budget 4G phone,3.9
+Sony,Xperia 1 V,Flagship with 4K OLED and pro camera features,4.7
+Lenovo,Tab P12 Pro,Tablet with stylus and AMOLED display,4.3
+Asus,ROG Phone 7 Ultimate,Ultimate gaming beast with flagship specs,4.8
+Google,Pixel 8 Pro,Latest Pixel with AI improvements,4.6
+Samsung,Galaxy A14 5G,Affordable with good battery life,4
+Apple,iPhone 15,Standard flagship with A17 chip,4.7
+OnePlus,12,Flagship with Snapdragon Gen 2,4.8
+Xiaomi,13T Pro,Powerful midrange with fast charging,4.4
+Realme,11x Pro,Good performance and camera,4.2
+Vivo,V27,Good selfie camera and display,4.1
+Motorola,Moto Edge 40 Fusion,Strong mid-range with fast charging,4.3
+Nokia,G400,Affordable 5G with stock Android,4
+Infinix,Note 13 Pro,Gaming focused with big battery,4.1
+Tecno,Pova 4,Great battery life at budget price,4
+Sony,Xperia 10 IV,Midrange with OLED display,4.2
+Lenovo,Tab P11 Plus,Tablet with good media consumption,4.1
+Asus,ROG Phone 7s,Gaming flagship with high refresh rate,4.7
+Google,Pixel 8,AI-enhanced camera and smooth UI,4.5
+Samsung,Galaxy M14 5G,Great budget 5G phone with solid battery,4
+Apple,iPhone SE (3rd Gen),Compact with powerful A15 chip,4.4
+OnePlus,10R 5G,Flagship-level performance at midrange price,4.5
+Xiaomi,Redmi 12C,Entry-level with decent battery life,3.9
+Realme,C35,Budget-friendly with large display,3.8
+Vivo,Y100,Good value with decent camera setup,4
+Motorola,Moto G32,Balanced specs for budget segment,4
+Nokia,C22,Basic smartphone with clean Android Go,3.7
+Infinix,Hot 15,Good display and battery for budget,4.1
+Tecno,Camon 20,Strong selfie camera in budget segment,4
+Sony,Xperia 1 VI,Top-tier flagship with pro video features,4.7
+Lenovo,Tab M8 (3rd Gen),Compact tablet with HD display,4.1
+Asus,ROG Phone 8,Latest gaming phone with flagship specs,4.8
+Google,Pixel Fold,Google’s foldable with flagship specs,4.6
+Samsung,Galaxy Z Fold 5,Foldable with improved durability,4.7
+Apple,iPhone 15 Plus,"Larger display, powerful performance",4.6
+OnePlus,Nord 3,Affordable midrange with strong performance,4.2
+Xiaomi,13 Lite,Slim design with AMOLED display,4.3
+Realme,10 Pro,"Solid performance, good display",4.1
+Vivo,T2,Good 5G performance at midrange price,4.2
+Motorola,Moto G Stylus 5G,Stylus support with decent specs,4
+Nokia,G21,Long battery life with Android One,4
+Infinix,Zero 5G 2024 Pro,Enhanced specs with 120Hz display,4.3
+Tecno,Pova 5G,Good battery and gaming performance,4.1
+Sony,Xperia 5 VI,Compact flagship with great camera,4.5
+Lenovo,Tab P12,High-end tablet with stylus support,4.4
+Asus,ROG Phone 8s,Gaming phone with flagship specs,4.8
+Google,Pixel 8a,Affordable Pixel with strong camera,4.3
+Samsung,Galaxy A24,Affordable midrange with AMOLED display,4.1
+Apple,iPhone 14 Plus,"Good battery, large display",4.5
+OnePlus,11R,Flagship specs with budget pricing,4.4
+Xiaomi,Redmi Note 12 Pro+,Strong camera and fast charging,4.3
+Realme,11 Pro+,Good performance and display,4.2
+Vivo,Y75,Good selfie camera and design,4
+Motorola,Moto G73 5G,Good battery and performance,4.1
+Nokia,X100,Affordable 5G phone with decent specs,4
+Infinix,Zero 5G 2023,Good display and battery,4.1
+Tecno,Spark 10,Entry-level smartphone with decent features,3.9
+Sony,Xperia 1 VII,Flagship with 4K OLED display,4.6
+Lenovo,Tab M10 HD (3rd Gen),Affordable tablet with HD screen,4
+Asus,ROG Phone 6D,Ultimate gaming phone with flagship specs,4.8
+Google,Pixel 7a,Budget flagship with strong camera,4.4
+Samsung,Galaxy M14 Prime 5G,Affordable with big battery,4
+Apple,iPhone 13 Mini,Compact and powerful,4.6
+OnePlus,Nord CE 3 Lite 5G,Budget 5G with solid specs,4.1
+Xiaomi,POCO X5 Pro,Strong midrange with AMOLED,4.3
+Realme,10x 5G,Good performance and battery,4.2
+Vivo,V25 Pro,Good camera and fast charging,4.2
+Motorola,Moto G71,Good battery life and 5G,4
+Nokia,X20,Android One with clean UI,4.1
+Infinix,Note 12 VIP,AMOLED display with good battery,4.1
+Tecno,Spark 8,Good budget phone,3.9
+Sony,Xperia 5 III,Compact flagship with great display,4.5
+Lenovo,Tab P11,Tablet with stylus support,4.3
+Asus,ROG Phone 5,High-end gaming phone,4.7
+Google,Pixel 6a,Budget Pixel with excellent camera,4.4
+Samsung,Galaxy S25 Ultra,Upcoming flagship with advanced camera tech,4.9
+Apple,iPhone 16 Pro,Next-gen A18 chip and design upgrades,4.9
+OnePlus,13 Pro,Flagship with Snapdragon 8 Gen 3,4.8
+Xiaomi,Redmi Note 14 Pro,Strong midrange with AMOLED display,4.4
+Realme,13 Pro+,Good performance with fast charging,4.3
+Vivo,X100 Pro+,Flagship with premium camera setup,4.6
+Motorola,Moto G85 5G,Affordable 5G phone with solid battery,4.1
+Nokia,G400 5G,Stock Android with reliable updates,4
+Infinix,Note 15 Pro,Improved gaming performance and display,4.2
+Tecno,Pova 6,Good battery and midrange specs,4.1
+Sony,Xperia 1 VII Pro,Flagship with professional-grade camera,4.7
+Lenovo,Tab P13 Pro,High-end tablet with AMOLED display,4.4
+Asus,ROG Phone 9,Ultra gaming phone with flagship specs,4.9
+Google,Pixel 9 Pro,Next-gen AI camera and smooth UI,4.7
+Samsung,Galaxy A54 5G,Great midrange with AMOLED display,4.3
+Apple,iPhone SE 4,Compact budget flagship,4.5
+OnePlus,12T,High performance with fast charging,4.6
+Xiaomi,Redmi K60 Pro,Premium specs with strong camera,4.5
+Realme,13x,Good value with smooth display,4.2
+Vivo,V29 Pro,Solid selfie camera and design,4.1
+Motorola,Moto Edge 40,Good display and battery life,4.2
+Nokia,G22,Basic smartphone with long battery,4
+Infinix,Zero 5G 2024 Ultra,Flagship features with budget price,4.3
+Tecno,Spark 10 Pro,Strong camera and good battery,4.2
+Sony,Xperia 10 V,Midrange with OLED screen,4.1
+Lenovo,Tab M10 Plus 3rd Gen,Affordable tablet for media,4.2
+Asus,ROG Phone 9s,Top-tier gaming phone,4.8
+Google,Pixel 9,Latest Pixel with AI features,4.6
+Samsung,Galaxy Z Flip 5,Foldable with compact design,4.7
+Apple,iPhone 16,Flagship with new features,4.8
+OnePlus,13T,Powerful midrange flagship,4.6
+Xiaomi,Redmi Note 14,Good value midrange phone,4.2
+Realme,14 Pro,Strong specs with AMOLED,4.3
+Vivo,V31,Good design and camera,4
+Motorola,Moto G73 Plus,5G budget phone,4.1
+Nokia,G400 Plus,Affordable 5G phone,4
+Infinix,Hot 20,Good battery and display,4.1
+Tecno,Camon 20 Pro,Strong selfie camera,4.2
+Sony,Xperia 1 VIII,Flagship with 4K OLED,4.6
+Lenovo,Tab P14s,High-performance tablet,4.4
+Asus,ROG Phone 10,Ultimate gaming phone,4.9
+Google,Pixel Fold 2,Next-gen foldable Pixel,4.7
+Samsung,Galaxy A34 5G,Strong midrange with AMOLED display,4.3
+Apple,iPhone 16 Mini,Compact flagship with powerful chip,4.7
+OnePlus,Nord 4,Affordable 5G with smooth performance,4.2
+Xiaomi,Redmi Note 14S,Good balance of price and specs,4.1
+Realme,14,Good value budget phone,4
+Vivo,V35,Strong selfie camera and design,4.2
+Motorola,Moto G73 5G,Decent budget 5G phone,4
+Nokia,G22 Plus,Long battery life and clean UI,4.1
+Infinix,Zero 5G 2025,Latest midrange with good specs,4.3
+Tecno,Spark 11,Entry-level with big battery,4
+Sony,Xperia 10 VI,Compact midrange with OLED display,4.2
+Lenovo,Tab M11 Plus 2nd Gen,Affordable tablet with good battery,4.1
+Asus,ROG Phone 10 Pro,High-end gaming device,4.9
+Google,Pixel 9a,Budget Pixel with solid camera,4.4
+Samsung,Galaxy M24 5G,Good battery and smooth display,4.1
+Apple,iPhone 15 Pro Max,Flagship with premium features,4.8
+OnePlus,11,Powerful performance with fast charging,4.7
+Xiaomi,Redmi K70 Pro,Premium specs and camera,4.5
+Realme,11 Pro,Good display and camera,4.3
+Vivo,V27,Strong selfie and video features,4.1
+Motorola,Moto G72,Smooth display and good battery,4
+Nokia,G21 Plus,Affordable with large battery,4
+Infinix,Note 13 Pro,Good midrange with AMOLED,4.2
+Tecno,Spark 9 Pro,Budget phone with decent specs,4
+Sony,Xperia 1 IV,Flagship with advanced camera,4.6
+Lenovo,Tab P11 Plus,Midrange tablet with stylus support,4.3
+Asus,ROG Phone 7 Ultimate,High-end gaming beast,4.9
+Google,Pixel 8,Flagship with AI features,4.7
+Samsung,Galaxy S24 Plus,Flagship with improved camera and battery,4.8
+Apple,iPhone SE 5,Compact budget flagship with latest chip,4.5
+OnePlus,Nord CE 4,Affordable 5G with solid features,4.1
+Xiaomi,Redmi Note 15,Strong midrange with AMOLED,4.3
+Realme,15 Pro,Good performance and fast charging,4.3
+Vivo,V40 Pro,Excellent camera and display,4.5
+Motorola,Moto G100,Good performance with big screen,4.1
+Nokia,G300 5G,Affordable 5G with clean Android,4
+Infinix,Zero 6 Pro,High refresh rate and strong battery,4.2
+Tecno,Camon 21 Pro,Good selfie camera and battery,4.1
+Sony,Xperia 5 VII,Compact flagship with OLED screen,4.6
+Lenovo,Tab P15,Midrange tablet with good performance,4.3
+Asus,ROG Phone 11,Top-tier gaming phone,4.9
+Google,Pixel 10a,Budget Pixel with excellent camera,4.4
+Samsung,Galaxy Z Fold 5,Foldable flagship with large display,4.8
+Apple,iPhone 15,Flagship with dynamic island,4.7
+OnePlus,12,Flagship with Snapdragon 8 Gen 3,4.7
+Xiaomi,POCO F5 Pro,High performance and camera,4.5
+Realme,15x,Good value with AMOLED display,4.3
+Vivo,V35 Pro,Strong selfie camera and smooth UI,4.2
+Motorola,Moto G Stylus 5G (2025),Stylus support and good display,4.1
+Nokia,G400 Plus,Affordable 5G with stock Android,4
+Infinix,Zero 6,Good midrange with fast charging,4.2
+Tecno,Spark 12 Pro,Good budget phone with camera,4.1
+Sony,Xperia 1 VIII Pro,Flagship with 4K display,4.7
+Lenovo,Tab P12 Pro,Premium tablet with stylus,4.4
+Asus,ROG Phone 11 Ultimate,Gaming powerhouse,4.9
+Google,Pixel 10,Flagship with AI enhancements,4.7
+Samsung,Galaxy A14 5G,Good budget 5G phone with solid battery,4.1
+Apple,iPhone 15 Plus,Larger screen flagship with great performance,4.7
+OnePlus,Nord 3,Affordable with smooth performance,4.2
+Xiaomi,Redmi Note 13,Good all-rounder with AMOLED display,4.3
+Realme,12 Pro,Good display and battery life,4.2
+Vivo,V30,Strong camera and fast charging,4.1
+Motorola,Moto G71,Affordable 5G with good battery,4
+Nokia,G11 Plus,Basic smartphone with long battery,4
+Infinix,Hot 15,Good budget phone with large screen,4.1
+Tecno,Camon 19 Pro,Great selfie camera and display,4.2
+Sony,Xperia 5 V,Compact flagship with OLED display,4.6
+Lenovo,Tab M12 FHD Plus,Affordable tablet with decent performance,4.1
+Asus,ROG Phone 12,High-end gaming phone,4.9
+Google,Pixel 11,Flagship with advanced AI features,4.7
+Samsung,Galaxy M14 5G,Budget 5G phone with strong battery,4.1
+Apple,iPhone 15 Pro Max,Luxury flagship with powerful camera,4.8
+OnePlus,10R,High-performance midrange with fast charging,4.5
+Xiaomi,Poco X5 Pro,Good value with AMOLED display,4.3
+Realme,10 Pro+,Strong specs and camera,4.4
+Vivo,V25 Pro,Great selfie camera and sleek design,4.3
+Motorola,Moto G51 5G,Affordable 5G with smooth performance,4
+Nokia,G400,Basic 5G phone with clean software,4
+Infinix,Note 12,Good battery and display,4.1
+Tecno,Spark 8 Pro,Entry-level with decent specs,4
+Sony,Xperia 10 IV,Midrange with OLED screen,4.2
+Lenovo,Tab M8 (3rd Gen),Compact tablet for media consumption,4.1
+Asus,ROG Phone 12 Ultimate,Top gaming device,4.9
+Google,Pixel 11a,Budget Pixel with excellent camera,4.4
+Samsung,Galaxy A24 5G,Good display and battery life,4.2
+Apple,iPhone 15 Pro,Flagship with ProMotion display,4.8
+OnePlus,Nord 5,Affordable phone with smooth UI,4.1
+Xiaomi,Redmi Note 15 Pro,Strong midrange with AMOLED,4.4
+Realme,13 Pro+,Good camera and fast charging,4.3
+Vivo,V33,Good design and selfie camera,4.1
+Motorola,Moto G22,Affordable with decent specs,4
+Nokia,G11,Basic phone with clean UI,4
+Infinix,Hot 20 Play,Entry-level with good battery,4.1
+Tecno,Spark 11,Budget phone with decent performance,4
+Sony,Xperia 1 VII,Flagship with 4K OLED,4.7
+Lenovo,Tab M10 Plus 4th Gen,Affordable tablet with decent specs,4.2
+Asus,ROG Phone 13,Gaming phone with powerful specs,4.9
+Google,Pixel 12,Flagship with AI features,4.7

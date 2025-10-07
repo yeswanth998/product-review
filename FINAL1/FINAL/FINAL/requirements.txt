@@ -1,0 +1,5 @@
+flask
+pandas
+scikit-learn
+numpy
+##             & 'C:/Program Files/Python313/python.exe' main.py

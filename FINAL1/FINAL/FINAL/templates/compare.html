@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Compare Models</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container card-center">
+    <h1>Compare Models</h1>
+    <form id="compareForm" style="display: flex; flex-direction: column; align-items: center; gap: 18px;">
+      <div style="width: 100%;">
+        <label for="brandSelect1">Select Company 1</label>
+        <select id="brandSelect1" name="brand1">
+          <option value="">-- Select Company --</option>
+          {% for brand in brands %}
+          <option value="{{ brand }}">{{ brand }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div style="width: 100%;">
+        <label for="modelSelect1">Select Model 1</label>
+        <select id="modelSelect1" name="model1">
+          <option value="">-- Select Model --</option>
+        </select>
+      </div>
+      <div style="width: 100%;">
+        <label for="brandSelect2">Select Company 2</label>
+        <select id="brandSelect2" name="brand2">
+          <option value="">-- Select Company --</option>
+          {% for brand in brands %}
+          <option value="{{ brand }}">{{ brand }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div style="width: 100%;">
+        <label for="modelSelect2">Select Model 2</label>
+        <select id="modelSelect2" name="model2">
+          <option value="">-- Select Model --</option>
+        </select>
+      </div>
+      <button type="submit" id="showComparisonBtn">Show Comparison</button>
+    </form>
+    <div id="comparisonSection" style="width:100%; margin-top:24px; display:none;"></div>
+    <a href="/" class="back-btn">&#8592; Back</a>
+  </div>
+  <script src="{{ url_for('static', filename='compare.js') }}"></script>
+</body>
+</html>
